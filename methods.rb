@@ -26,13 +26,3 @@ def tall?(height)
 end
 
 #puts tall?(170)
-
-def tall?(height)
-    if height >= 200
-      return true
-    else
-      return false
-    end
-  end
-
-  puts tall?(210)
